@@ -1,9 +1,9 @@
 {
   "name":"BELTAH-MD-V7",
-  "description":"Deploy now your 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 bot, BELTAH-MD was developed by Beltah.Make sure you fill all valuables accordingly. ",
+  "description":"BELTAH-MD-V7 WAS DEVELOPED BY BELTAH.",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository":"https://github.com/DEVbeltah/V7-beltah",
+  "repository":"https://github.com/Airforce254/LAST-HOPE",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
