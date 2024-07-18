@@ -31,7 +31,7 @@
 ## SETUP FOR BELTAH MD V7
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Devbeltah/V7-Beltah/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Airforce254/LAST-HOPE/fork) It***
 
 2.`Get Session ID` by 
 
@@ -43,7 +43,7 @@
 (No BAN. 100% safe) 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Devbeltah/V7-Beltah&template=https://github.com/Devbeltah/V7-Beltah.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Airforce254/LAST-HOPE&template=https://github.com/Airforce254/LAST-HOPE.git)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
