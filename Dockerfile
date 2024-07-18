@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Devbeltah/V7-beltah /root/beltah
+RUN git clone https://github.com/Airforce254/LAST-HOPE /root/beltah
 WORKDIR /root/beltah/
 
 
